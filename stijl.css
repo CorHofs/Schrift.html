@@ -1,0 +1,112 @@
+header{
+    color: #000000;
+   background-color: #00BFFF;
+   width: 80px;
+   height: 25px;
+   }
+   table {
+    border: solid 5px CornflowerBlue;
+    }
+    img{
+        width: 250px;
+        height: 125px;
+    }
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    }
+    #cel1 {
+        background-color: #00FFFF;
+        width: 300px;
+         height: 175px;
+        }
+        #cel2 {
+            background-color: #AFEEEE;
+            width: 300px;
+            height: 175px;                
+                }
+        #cel3 {
+            background-color: #40E0D0;
+            width: 300px;
+            height: 175px;
+        }
+        #cel4 {
+            background-color: #7FFFD4;
+            width: 300px;
+            height: 175px;
+        }
+        #cel5 {
+            background-color: #FFD700;
+            width: 300px;
+            height: 175px;
+        }
+        #cel6 {
+            background-color: #FFE4B5;
+            width: 300px;
+            height: 175px;
+        }
+        #cel7 {
+            background-color: #F08080;
+            width: 300px;
+            height: 175px;
+        }
+        #cel8 {
+            background-color: #F0B0BD;
+            width: 300px;
+            height: 175px;
+        }
+        #cel9 {
+            background-color: #DDA0DD;
+            width: 300px;
+            height: 175px;
+        }
+        #cel10 {
+        background-color: #EEB2EE; 
+            width: 300px;
+            height: 175px;
+        }
+        #cel11 {
+            background-color: #C0C0C0;
+            width: 300px;
+            height: 175px;
+        }
+        #cel12 {
+            background-color: #DCDCDC;
+            width: 300px;
+            height: 175px;
+        }
+         #cel13 {
+        background-color: #F0E6BC;
+        width: 300px;
+        height: 175px;
+     }
+     #cel14 {
+    background-color: #FAFAD2;
+     width: 300px;
+     height: 175px;
+     }
+    #cel15 {
+    background-color: #FFD700;
+    width: 300px;
+    height: 175px;
+    }
+    #cel16 {
+     background-color: #FFFF00;
+     width: 300px;
+    height: 175px;
+    }
+    h1{
+        color: black;
+         text-align: center; 
+        }
+   .txt{
+       width: 150px;
+       height: 30px;
+   } 
+    footer{
+    color: #000000;
+background-color: #FF99CC;
+width: 170px;
+height: 25px;
+}
